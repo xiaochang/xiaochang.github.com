@@ -83,7 +83,7 @@
 }
 
 #main_content_wrap {
-  background: #edfed2;
+  background:url(../images/person.jpg) center center no-repeat #edfed2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
   position: relative;
